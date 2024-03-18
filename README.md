@@ -15,4 +15,6 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/tomsdroid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tomsdroid" /></a></p><br><br>
+<p><a href="https://ko-fi.com/tomsdroid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tomsdroid" /></a></p>
+<p><a href="https://saweria.co/tomsdroid"> <img align="left" src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" height="50" width="210" alt="tomsdroid" /></a></p><br><br>
+
