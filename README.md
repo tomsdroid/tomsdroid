@@ -8,5 +8,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://instagram.com/tomsdroid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/tomsdroid" height="30" width="40" /></a>
+<a href="https://codepen.io/tomsdroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tomsdroid" height="30" width="40" /></a>
+<a href="https://twitter.com/toms_droid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toms_droid" height="30" width="40" /></a>
+<a href="https://instagram.com/tomsdroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomsdroid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@codeblues_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codeblues_id" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/tomsdroid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tomsdroid" /></a></p><br><br>
